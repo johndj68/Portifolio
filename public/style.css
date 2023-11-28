@@ -90,7 +90,7 @@ section {
 
 .home-img img{
     width: 30vw;
-    box-shadow: 0 0 4rem var(--main-color);
+    box-shadow: 0 0 4rem var(--text-color);
     animation: floatImage 4s ease-in-out infinite;
 
 }
